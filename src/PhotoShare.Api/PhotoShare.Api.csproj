@@ -12,6 +12,12 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PhotoShare.Application\PhotoShare.Application.csproj" />
+    <ProjectReference Include="..\PhotoShare.Infrastructure\PhotoShare.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

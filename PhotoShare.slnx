@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="src/PhotoShare.Api/PhotoShare.Api.csproj" />
+  <Project Path="src/PhotoShare.Application/PhotoShare.Application.csproj" />
+  <Project Path="src/PhotoShare.Domain/PhotoShare.Domain.csproj" />
+  <Project Path="src/PhotoShare.Infrastructure/PhotoShare.Infrastructure.csproj" />
 </Solution>

@@ -1,0 +1,6 @@
+@PhotoShare.Api_HostAddress = http://localhost:5030
+
+GET {{PhotoShare.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
